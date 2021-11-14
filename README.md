@@ -34,9 +34,9 @@
 
 ## Quantifiers:
 
-#### - - 0 or More
+#### \* 0 or More
 
-#### \* - 1 or More
+#### + 1 or More
 
 #### ? - 0 or One
 
